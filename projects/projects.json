@@ -2,6 +2,23 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Flouss",
+      "thumb": "flouss/thumb.png",
+      "desc": "Flouss is a simple paid content management system. It uses Stripe and Amazon APIs. It's proudly powered by NodeJS, AngularJS and MongoDB (full stack JS).",
+      "url": "http://github.com/yrezgui/flouss",
+      "info": "http://github.com/yrezgui/flouss",
+      "src": "https://github.com/yrezgui/flouss",
+      "submitter": "yrezgui",
+      "submissionDate": "2013-06-21",
+      "tags": [
+        "Demo",
+        "Ecommerce",
+        "Flat UI",
+        "Stripe",
+        "Open Source",
+      ]
+    },
+    {
       "name": "Shortkeys for Chrome",
       "thumb": "shortkeys-chrome/thumb.png",
       "desc": "A Chrome extension for custom keyboard shortcuts. Angular powers the admin/options UI",
